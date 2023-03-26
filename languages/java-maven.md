@@ -1,5 +1,5 @@
 # Create Maven Project
-- new / maven Projct (simple project)
+- new / maven Project (simple project)
 - CREATE src/main/resources/META-INF/persistence.xml
 ```java
 <?xml version="1.0" encoding="UTF-8"?>
