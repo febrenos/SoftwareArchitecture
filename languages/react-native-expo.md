@@ -10,5 +10,5 @@
 - fetch
 
 ## GENERATE APK
-cd android
-./gradlew app:assembleRelease
+- cd android
+- ./gradlew app:assembleRelease
