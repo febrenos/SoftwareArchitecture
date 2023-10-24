@@ -38,3 +38,8 @@ POSTMAN
 - Params > url
 - Headers > settings
 - Body > Json
+
+RUN
+- gradlew build
+- gradlew run
+- ./gradlew run
